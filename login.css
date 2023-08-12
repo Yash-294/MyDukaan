@@ -1,0 +1,47 @@
+
+.card-header{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(97, 127, 236);
+    font-weight: bolder;
+    /* text-decoration: underline; */
+    /* text-shadow: 1px 2px rgb(126, 126, 126); */
+    
+}
+body{
+    margin-top: 130px;
+}
+/* body:hover{
+    transition: 3s;
+    background-color: rgb(193, 191, 189);
+} */
+.login_card{
+    width: 80%;
+    margin-left: 100px;
+    align-self: center;
+}
+
+.left_img{
+    display: flex;
+    position: relative;
+    padding: 10px 10px;
+    float: left;
+    align-items: center;
+    justify-content: center;
+    margin-left: 80px;
+    /* margin-right: 0px; */
+    width: 100;
+}
+.card-body{
+    padding: 10px 10px;
+    display: flex;
+    position: relative;
+    margin-left: 100px;
+    float: right;
+    text-decoration-color: black;
+    /* width: 0%; */
+    /* background-color: aqua; */
+}
+.card-footer{
+    text-align: right;
+}

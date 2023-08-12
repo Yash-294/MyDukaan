@@ -1,0 +1,12 @@
+.card-header{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(80, 141, 240);
+}
+body:hover{
+    transition: 3s;
+    background-color: rgb(193, 191, 189);
+}
